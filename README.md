@@ -1,17 +1,11 @@
-qBittorrent - A BitTorrent client in Qt
+QsTorrent - A BitTorrent client branch of qBitTorrent
 ------------------------------------------
 
-[![AppVeyor Status](https://ci.appveyor.com/api/projects/status/github/qbittorrent/qBittorrent?branch=master&svg=true)](https://ci.appveyor.com/project/qbittorrent/qBittorrent)
-[![GitHub Actions CI Status](https://github.com/qbittorrent/qBittorrent/workflows/GitHub%20Actions%20CI/badge.svg)](https://github.com/qbittorrent/qBittorrent/actions)
-[![Coverity Status](https://scan.coverity.com/projects/5494/badge.svg)](https://scan.coverity.com/projects/5494)
-********************************
 ### Description:
 qBittorrent is a bittorrent client programmed in C++ / Qt that uses
 libtorrent (sometimes called libtorrent-rasterbar) by Arvid Norberg.
 
-It aims to be a good alternative to all other bittorrent clients
-out there. qBittorrent is fast, stable and provides unicode
-support as well as many features.
+This torrent tracker/downloader is customized to suit my needs. 
 
 The free [IP to Country Lite database](https://db-ip.com/db/download/ip-to-country-lite) by [DB-IP](https://db-ip.com/) is used for resolving the countries of peers. The database is licensed under the [Creative Commons Attribution 4.0 International License](https://creativecommons.org/licenses/by/4.0/).
 
